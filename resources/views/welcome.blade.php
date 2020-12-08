@@ -54,12 +54,12 @@
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     Juárez Torres María José<br>
                                     16180931<br>
-                                    Instituto Tecnológico de San Luis Potosí
+                                    Instituto Tecnológico de San Luis Potosí<br>
                                     Administración de servidores
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> 
                 </div>
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="grid grid-cols-1 md:grid-cols-2">
